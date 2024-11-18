@@ -1,0 +1,14 @@
+C:\Users\SILA\source\repos\mayinTarlasi\mayinTarlasi\bin\Debug\mayinTarlasi.exe.config
+C:\Users\SILA\source\repos\mayinTarlasi\mayinTarlasi\bin\Debug\mayinTarlasi.exe
+C:\Users\SILA\source\repos\mayinTarlasi\mayinTarlasi\bin\Debug\mayinTarlasi.pdb
+C:\Users\SILA\source\repos\mayinTarlasi\mayinTarlasi\obj\Debug\mayinTarlasi.csprojAssemblyReference.cache
+C:\Users\SILA\source\repos\mayinTarlasi\mayinTarlasi\obj\Debug\mayinTarlasi.csproj.CoreCompileInputs.cache
+C:\Users\SILA\source\repos\mayinTarlasi\mayinTarlasi\obj\Debug\mayinTarlasi.exe
+C:\Users\SILA\source\repos\mayinTarlasi\mayinTarlasi\obj\Debug\mayinTarlasi.pdb
+C:\Users\SILA\Documents\GitHub\mayinTarlasi\mayinTarlasi\mayinTarlasi\bin\Debug\mayinTarlasi.exe.config
+C:\Users\SILA\Documents\GitHub\mayinTarlasi\mayinTarlasi\mayinTarlasi\bin\Debug\mayinTarlasi.exe
+C:\Users\SILA\Documents\GitHub\mayinTarlasi\mayinTarlasi\mayinTarlasi\bin\Debug\mayinTarlasi.pdb
+C:\Users\SILA\Documents\GitHub\mayinTarlasi\mayinTarlasi\mayinTarlasi\obj\Debug\mayinTarlasi.csprojAssemblyReference.cache
+C:\Users\SILA\Documents\GitHub\mayinTarlasi\mayinTarlasi\mayinTarlasi\obj\Debug\mayinTarlasi.csproj.CoreCompileInputs.cache
+C:\Users\SILA\Documents\GitHub\mayinTarlasi\mayinTarlasi\mayinTarlasi\obj\Debug\mayinTarlasi.exe
+C:\Users\SILA\Documents\GitHub\mayinTarlasi\mayinTarlasi\mayinTarlasi\obj\Debug\mayinTarlasi.pdb
